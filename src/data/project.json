@@ -1,0 +1,27 @@
+[
+    {
+        "imageSrc": "src/assets/newproducts.png",
+        "description" : "This  project involves dynamically routing pages",
+        "skills": ["REACT"],
+        "demo":"https://react-dynamic-routing-five.vercel.app/"
+    },
+    {
+        "imageSrc": "src/assets/Beta.png",
+        "description" : "This  project involves understanding the challenges faced by rural artisans",
+        "skills": ["HTML", "CSS", "JAVASCRIPT"],
+        "demo":"https://tgartificer.netlify.app/"
+    },
+    {
+        "imageSrc": "src/assets/newquotes.png",
+        "description" : "I was learning more Javascript functinalities with this project",
+        "skills": ["HTML", "CSS", "JAVASCRIPT"],
+        "demo":"https://olajumoke-quotes.vercel.app/"
+    },
+    {
+        "imageSrc": "src/assets/Todo.png",
+        "description" : "I created a  to do list app with Typescript",
+        "skills": ["HTML", "CSS", "TYPESCRIPT"],
+        "demo":"https://to-do-list-project-seven.vercel.app/"
+
+    }
+]
