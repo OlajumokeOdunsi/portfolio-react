@@ -1,5 +1,5 @@
 import React from 'react'
-import projects from "../../data/project.json"
+import projects from "../../../src/data/project.json"
 import Projectcard from './Projectcard'
 import styles from "../project/Project.module.css"
 
@@ -11,6 +11,7 @@ const Projects = () => {
         <div className={styles.project}>
             {
               projects.map((project, id)=>{
+                console.log(project);
                 return <Projectcard key={id} project={project}/>
 
               })
